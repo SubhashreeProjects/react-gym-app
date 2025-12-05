@@ -53,7 +53,7 @@ react-gym-app/
 ├── .gitignore
 ├── package.json
 └── README.md
-**Usage**
+## Usage
 
 Navigate through Home and Exercises tabs.
 
