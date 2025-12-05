@@ -30,17 +30,19 @@ A modern, responsive fitness web application built with **ReactJS**. This app he
 ```bash
 git clone https://github.com/SubhashreeProjects/react-gym-app.git
 cd react-gym-app
+```
 
 2. Install dependencies:
 ```bash
 npm install
+```
 3. Start the development server:
-
+```bash
 npm start
-
+```
 The app will run at http://localhost:3000
 
-**Project Structure**
+## Project Structure
 react-gym-app/
 │
 ├── public/             # Static assets
@@ -53,6 +55,7 @@ react-gym-app/
 ├── .gitignore
 ├── package.json
 └── README.md
+
 ## Usage
 
 Navigate through Home and Exercises tabs.
