@@ -32,6 +32,7 @@ git clone https://github.com/SubhashreeProjects/react-gym-app.git
 cd react-gym-app
 
 2. Install dependencies:
+```bash
 npm install
 3. Start the development server:
 
